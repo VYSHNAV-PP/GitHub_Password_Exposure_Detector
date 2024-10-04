@@ -7,6 +7,7 @@ After installation run command ( for python3 Note:Location of tool might be diff
   python3 /home/kali/Deskop/GitHubPasswordExposureDetector.py
 
 Enter you target url (NOTE: THIS BOT ONLY WORKS FOR GITHUB TARGETS): https://github.com/usernam121
+
 ['respository']
 https://github.com/usernam121/respository
 main.py
